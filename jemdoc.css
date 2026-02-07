@@ -365,3 +365,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+div#toptitle h1 {
+  display: flex;          /* turn h1 into a flex container */
+  align-items: center;    /* vertical alignment */
+  gap: 15px;              /* space between name and logo */
+}
