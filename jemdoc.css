@@ -365,3 +365,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+table.imgtable a,
+table.imgtable a:visited {
+  color: #AC2B37;
+}
